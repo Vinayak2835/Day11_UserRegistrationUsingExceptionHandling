@@ -28,7 +28,7 @@
 	     catch(UserDefinedException e) {
 		System.out.println(e.errormessage);
 		checkNamePattern();
-	     }
+	      }
 	}
 	
 	// The Method is used to validate your Email
